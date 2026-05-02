@@ -1,0 +1,5 @@
+streamlit
+pydantic
+requests
+PyPDF2
+matplotlib
